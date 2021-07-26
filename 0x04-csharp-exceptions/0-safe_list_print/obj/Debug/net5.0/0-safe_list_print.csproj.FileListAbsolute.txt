@@ -1,0 +1,16 @@
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\bin\Debug\net5.0\0-safe_list_print.exe
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\bin\Debug\net5.0\0-safe_list_print.deps.json
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\bin\Debug\net5.0\0-safe_list_print.runtimeconfig.json
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\bin\Debug\net5.0\0-safe_list_print.runtimeconfig.dev.json
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\bin\Debug\net5.0\0-safe_list_print.dll
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\bin\Debug\net5.0\ref\0-safe_list_print.dll
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\bin\Debug\net5.0\0-safe_list_print.pdb
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\obj\Debug\net5.0\0-safe_list_print.csproj.AssemblyReference.cache
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\obj\Debug\net5.0\0-safe_list_print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\obj\Debug\net5.0\0-safe_list_print.AssemblyInfoInputs.cache
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\obj\Debug\net5.0\0-safe_list_print.AssemblyInfo.cs
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\obj\Debug\net5.0\0-safe_list_print.csproj.CoreCompileInputs.cache
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\obj\Debug\net5.0\0-safe_list_print.dll
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\obj\Debug\net5.0\ref\0-safe_list_print.dll
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\obj\Debug\net5.0\0-safe_list_print.pdb
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x04-csharp-exceptions\0-safe_list_print\obj\Debug\net5.0\0-safe_list_print.genruntimeconfig.cache
