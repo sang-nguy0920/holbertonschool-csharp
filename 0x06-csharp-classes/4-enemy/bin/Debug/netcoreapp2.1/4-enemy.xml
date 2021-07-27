@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>4-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>Initializes a new instance of the Zombie class.</summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary>Private field for Zombie class.</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>Public constructor for Zombie class.</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary>Public constructor for Zombie class.</summary>
+        </member>
+        <member name="F:Enemies.Zombie.name">
+            <summary>Private field for Zombie class.</summary>
+        </member>
+        <member name="P:Enemies.Zombie.Name">
+            <summary>Public constructor for Zombie class.</summary>        
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary>Public constructor for Zombie class.</summary>
+        </member>
+    </members>
+</doc>
