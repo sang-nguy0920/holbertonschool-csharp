@@ -2,7 +2,12 @@
 
 namespace Text
 {
-    public class Class1
+    /// <summary>Public Str class.</summary>
+    public class Str
     {
+        public static bool IsPalindrome(string s)
+        {
+            
+        }
     }
 }

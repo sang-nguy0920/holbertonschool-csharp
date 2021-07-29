@@ -20,13 +20,79 @@
           "C:\\Users\\enron\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net50"
+          "netcoreapp2.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net50": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\enron\\Desktop\\Holberton ARVR\\holbertonschool-csharp\\0x07-csharp-tdd\\4-unique\\Text\\Text.csproj": {
+                "projectPath": "C:\\Users\\enron\\Desktop\\Holberton ARVR\\holbertonschool-csharp\\0x07-csharp-tdd\\4-unique\\Text\\Text.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\enron\\Desktop\\Holberton ARVR\\holbertonschool-csharp\\0x07-csharp-tdd\\4-unique\\Text\\Text.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\enron\\Desktop\\Holberton ARVR\\holbertonschool-csharp\\0x07-csharp-tdd\\4-unique\\Text\\Text.csproj",
+        "projectName": "Text",
+        "projectPath": "C:\\Users\\enron\\Desktop\\Holberton ARVR\\holbertonschool-csharp\\0x07-csharp-tdd\\4-unique\\Text\\Text.csproj",
+        "packagesPath": "C:\\Users\\enron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enron\\Desktop\\Holberton ARVR\\holbertonschool-csharp\\0x07-csharp-tdd\\4-unique\\Text\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\enron\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
             "projectReferences": {}
           }
         },
@@ -37,21 +103,20 @@
         }
       },
       "frameworks": {
-        "net50": {
+        "netstandard2.0": {
           "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[16.5.0, )"
-            },
-            "NUnit": {
-              "target": "Package",
-              "version": "[3.12.0, )"
-            },
-            "NUnit3TestAdapter": {
-              "target": "Package",
-              "version": "[3.16.1, )"
+              "version": "[2.0.3, )",
+              "autoReferenced": true
             }
-          }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
         }
       }
     }
