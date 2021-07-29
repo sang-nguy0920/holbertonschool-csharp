@@ -21,5 +21,13 @@ namespace MyMath.Tests
             int max = Operations.Max(nums);
             Assert.AreEqual(-3, max);
         }
+
+        [Test]
+        public void malcomInMiddle()
+        {
+            List<int> nums = new List<int> {-3, -7, -10};
+            int max = Operations.Max(nums);
+            Assert.AreEqual(-3, max);
+        }
     }
 }
