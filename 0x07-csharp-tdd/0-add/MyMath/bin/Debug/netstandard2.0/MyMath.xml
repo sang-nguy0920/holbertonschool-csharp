@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyMath</name>
+    </assembly>
+    <members>
+        <member name="T:MyMath.Operations">
+            <summary>Public Operations class.</summary>
+        </member>
+        <member name="M:MyMath.Operations.Add(System.Int32,System.Int32)">
+            <summary>Public constructor for Operations class.</summary>
+        </member>
+    </members>
+</doc>

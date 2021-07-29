@@ -2,17 +2,15 @@ using NUnit.Framework;
 
 namespace MyMath.Tests
 {
+    [TestFixture]
+    /// <summary>Public Tests class.</summary>
     public class Tests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [Test]
         public void Test1()
         {
-            Assert.Pass();
+            int sum = Operations.Add(5, 4);
+            Assert.AreEqual(sum, 9);
         }
     }
 }

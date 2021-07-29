@@ -2,8 +2,14 @@
 
 namespace MyMath
 {
-    /// <summary>Public constructor for Zombie class.</summary>
-    public class Class1
+    /// <summary>Public Operations class.</summary>
+    public class Operations
     {
+        /// <summary>Public constructor for Operations class.</summary>
+        public static int Add(int a, int b)
+        {
+            return a + b;
+        }
+
     }
 }
