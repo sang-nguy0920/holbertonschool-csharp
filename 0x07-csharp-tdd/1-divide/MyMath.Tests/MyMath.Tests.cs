@@ -22,5 +22,14 @@ namespace MyMath.Tests
             int[,] res = Matrix.Divide(matrix, num);
             Assert.AreEqual(null, res);
         }
+
+        [Test]
+        public void nullmatrix()
+        {
+            int[,] matrix = null;
+            int num = 1;
+            int[,] res = Matrix.Divide(matrix, num);
+            Assert.AreEqual(null, res);
+        }
     }
 }
