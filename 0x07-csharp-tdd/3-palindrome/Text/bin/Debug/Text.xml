@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary>Public Str class.</summary>
+        </member>
+        <member name="M:Text.Str.IsPalindrome(System.String)">
+            <summary>Public IsPalindrome for Str class.</summary>
+        </member>
+    </members>
+</doc>
