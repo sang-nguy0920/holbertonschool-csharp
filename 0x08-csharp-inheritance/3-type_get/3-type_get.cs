@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace _3_type_get
+
+/// <summary>Public Obj class.</summary>
+class Obj
 {
-    class Program
+    /// <summary>Public Obj class.</summary>
+    public static void Print(object myObj)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        
     }
 }
