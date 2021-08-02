@@ -1,0 +1,12 @@
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\bin\Debug\netcoreapp2.1\9-shape.xml
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\bin\Debug\netcoreapp2.1\9-shape.deps.json
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\bin\Debug\netcoreapp2.1\9-shape.runtimeconfig.json
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\bin\Debug\netcoreapp2.1\9-shape.runtimeconfig.dev.json
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\bin\Debug\netcoreapp2.1\9-shape.dll
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\bin\Debug\netcoreapp2.1\9-shape.pdb
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\obj\Debug\netcoreapp2.1\9-shape.csprojAssemblyReference.cache
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\obj\Debug\netcoreapp2.1\9-shape.csproj.CoreCompileInputs.cache
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\obj\Debug\netcoreapp2.1\9-shape.AssemblyInfoInputs.cache
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\obj\Debug\netcoreapp2.1\9-shape.AssemblyInfo.cs
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\obj\Debug\netcoreapp2.1\9-shape.dll
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\obj\Debug\netcoreapp2.1\9-shape.pdb
