@@ -1,0 +1,12 @@
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\obj\Debug\netcoreapp2.1\3-type_get.csprojAssemblyReference.cache
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\obj\Debug\netcoreapp2.1\3-type_get.csproj.CoreCompileInputs.cache
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\obj\Debug\netcoreapp2.1\3-type_get.AssemblyInfoInputs.cache
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\obj\Debug\netcoreapp2.1\3-type_get.AssemblyInfo.cs
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\bin\Debug\netcoreapp2.1\3-type_get.xml
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\bin\Debug\netcoreapp2.1\3-type_get.deps.json
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\bin\Debug\netcoreapp2.1\3-type_get.runtimeconfig.json
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\bin\Debug\netcoreapp2.1\3-type_get.runtimeconfig.dev.json
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\bin\Debug\netcoreapp2.1\3-type_get.dll
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\bin\Debug\netcoreapp2.1\3-type_get.pdb
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\obj\Debug\netcoreapp2.1\3-type_get.dll
+C:\Users\enron\Desktop\Holberton ARVR\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\obj\Debug\netcoreapp2.1\3-type_get.pdb
