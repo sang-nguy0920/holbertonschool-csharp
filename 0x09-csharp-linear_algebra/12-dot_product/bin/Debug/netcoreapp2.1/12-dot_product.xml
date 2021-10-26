@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>12-dot_product</name>
+    </assembly>
+    <members>
+        <member name="T:VectorMath">
+            <summary>Public VectorMath class.</summary>
+        </member>
+        <member name="M:VectorMath.DotProduct(System.Double[],System.Double[])">
+            <summary>Calculates dot product of either two 2D or two 3D vectors.</summary>
+        </member>
+    </members>
+</doc>

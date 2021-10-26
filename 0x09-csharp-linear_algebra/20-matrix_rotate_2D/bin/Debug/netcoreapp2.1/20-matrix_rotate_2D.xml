@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>20-matrix_rotate_2D</name>
+    </assembly>
+    <members>
+        <member name="T:MatrixMath">
+            <summary>Public MatrixMath class.</summary>
+        </member>
+        <member name="M:MatrixMath.Rotate2D(System.Double[0:,0:],System.Double)">
+            <summary>rotates a square 2D matrix by a given angle</summary>
+        </member>
+    </members>
+</doc>

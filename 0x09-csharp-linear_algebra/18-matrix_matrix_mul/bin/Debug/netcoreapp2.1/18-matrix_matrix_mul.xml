@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>18-matrix_matrix_mul</name>
+    </assembly>
+    <members>
+        <member name="T:MatrixMath">
+            <summary>Public MatrixMath class.</summary>
+        </member>
+        <member name="M:MatrixMath.Multiply(System.Double[0:,0:],System.Double[0:,0:])">
+            <summary>Multiplies two matrices and returns the resulting matrix.</summary>
+        </member>
+    </members>
+</doc>
