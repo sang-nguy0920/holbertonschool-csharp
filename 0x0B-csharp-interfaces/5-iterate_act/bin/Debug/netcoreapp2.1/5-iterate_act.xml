@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-iterate_act</name>
+    </assembly>
+    <members>
+        <member name="T:Base">
+            <summary> Abstract base class. </summary>
+        </member>
+        <member name="P:Base.name">
+            <summary> public property </summary>
+        </member>
+        <member name="M:Base.ToString">
+            <summary> ToString() method </summary>
+        </member>
+        <member name="T:IInteractive">
+            <summary> interface called IInteractive </summary>
+        </member>
+        <member name="T:IBreakable">
+            <summary> interface called IBreakable </summary>
+        </member>
+        <member name="T:ICollectable">
+            <summary> interface called ICollectable </summary>
+        </member>
+        <member name="T:Door">
+            <summary> Door that inherits from Base and IInteractive class </summary>
+        </member>
+        <member name="M:Door.#ctor(System.String)">
+            <summary> constructor </summary>
+        </member>
+        <member name="M:Door.Interact">
+            <summary> constructor </summary>
+        </member>
+        <member name="T:Decoration">
+            <summary> checker </summary>
+        </member>
+        <member name="M:Decoration.#ctor(System.String,System.Int32,System.Boolean)">
+            <summary> checker </summary>
+        </member>
+        <member name="M:Decoration.Interact">
+            <summary> checker </summary>
+        </member>
+        <member name="M:Decoration.Break">
+            <summary> checker </summary>
+        </member>
+        <member name="T:Key">
+            <summary> checker </summary>
+        </member>
+        <member name="M:Key.Collect">
+            <summary> checker </summary>
+        </member>
+        <member name="T:RoomObjects">
+            <summary> checker </summary>
+        </member>
+        <member name="M:RoomObjects.IterateAction(System.Collections.Generic.List{Base},System.Type)">
+            <summary> checker </summary>
+        </member>
+    </members>
+</doc>
