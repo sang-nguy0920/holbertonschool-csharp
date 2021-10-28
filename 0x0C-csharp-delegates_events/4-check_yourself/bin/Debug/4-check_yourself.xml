@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>4-check_yourself</name>
+    </assembly>
+    <members>
+        <member name="T:Player">
+            <summary> public class called Player </summary>
+        </member>
+        <member name="F:Player.HPCheck">
+            <summary> public EventHandler<CurrentHPArgs/> HPCheck </summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary>Constructor for Player class.</summary>
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary> PrintHealth() </summary>
+        </member>
+        <member name="T:Player.CalculateHealth">
+            <summary> for checker </summary>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary> for checker </summary>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary> for checker</summary>
+        </member>
+        <member name="M:Player.ValidateHP(System.Single)">
+            <summary> for checker</summary>
+        </member>
+        <member name="M:Player.ApplyModifier(System.Single,Modifier)">
+            <summary> for checker</summary>
+        </member>
+        <member name="M:Player.CheckStatus(System.Object,CurrentHPArgs)">
+            <summary> for checker</summary>
+        </member>
+        <member name="T:Modifier">
+            <summary> for checker</summary>
+        </member>
+        <member name="T:CalculateModifier">
+            <summary> for checker</summary>
+        </member>
+        <member name="T:CurrentHPArgs">
+            <summary> class CurrentHPArgs </summary>
+        </member>
+        <member name="F:CurrentHPArgs.currentHp">
+            <summary> for checker</summary>
+        </member>
+        <member name="M:CurrentHPArgs.#ctor(System.Single)">
+            <summary> for checker</summary>
+        </member>
+    </members>
+</doc>
